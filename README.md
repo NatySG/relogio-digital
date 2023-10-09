@@ -1,12 +1,8 @@
 # Relógio Digital
 
-![Relógio Digital](screenshot.png)
+![Relógio Digital](https://github.com/NatySG/relogio-digital/assets/147086281/a38161e5-032f-47c9-8d1d-82165fe25495)
 
-Este é um projeto de relógio digital simples construído com HTML, CSS e JavaScript.
-
-## Demonstração
-
-Você pode ver uma demonstração do projeto [aqui](file:///C:/Users/gonca/Desktop/Rel%C3%B3gio%20Digital/index.html).
+Este é um projeto de relógio digital simples construído com HTML, CSS e JavaScript, foi um exercício mesmo.
 
 ## Instruções de Uso
 
@@ -25,12 +21,6 @@ Este projeto foi desenvolvido usando as seguintes tecnologias:
 - JavaScript
 
 Contribuições são bem-vindas! 
-
-## Autor
-
-- Natália Gonçalves
-- Email: nataliasantos.png@gmail.com
-- GitHub: [NatySG](https://github.com/NatySG)
 
 
 ## Status do Projeto
